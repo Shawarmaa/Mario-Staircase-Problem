@@ -1,4 +1,4 @@
-# Mario-Stair-Case-Problem
+# Mario-Staircase-Problem
 Problem 2
 Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario must hop over adjacent pyramids of blocks.
 
