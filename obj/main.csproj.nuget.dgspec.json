@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/Stair-Case-2/main.csproj": {}
+    "/home/runner/Mario-Staircase-Problem/main.csproj": {}
   },
   "projects": {
-    "/home/runner/Stair-Case-2/main.csproj": {
+    "/home/runner/Mario-Staircase-Problem/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/Stair-Case-2/main.csproj",
+        "projectUniqueName": "/home/runner/Mario-Staircase-Problem/main.csproj",
         "projectName": "main",
-        "projectPath": "/home/runner/Stair-Case-2/main.csproj",
+        "projectPath": "/home/runner/Mario-Staircase-Problem/main.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/Stair-Case-2/obj/",
+        "outputPath": "/home/runner/Mario-Staircase-Problem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/nix/store/knphr82kmbrymkmwv8dl86i37xbvg67z-dotnet-sdk-6.0.100/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/nix/store/jsm5am5i2b2izvwzbw5h6lk3plvpkrlw-dotnet-sdk-6.0.100/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

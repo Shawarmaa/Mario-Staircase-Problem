@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iPaMUeD6i3/Ss4itHxpfjwgSmb74w5KKIYm23W8GHJIp1210BnE3WXudWEXtQqM5t2JlXB2F4D10pyz4A0LUVw==",
+  "dgSpecHash": "CC7Tv0MxP50z79eGHZL96OWu0y8kyin/FtKyJR8DOy5eKuewXkWzCxpwzCrnJbZem/ET91r+/c0oN+hUdUyg+Q==",
   "success": true,
-  "projectFilePath": "/home/runner/Stair-Case-2/main.csproj",
+  "projectFilePath": "/home/runner/Mario-Staircase-Problem/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
